@@ -1,0 +1,10 @@
+@base_adress = https://localhost:7041
+
+GET {{base_adress}}/api/Game
+Accept: application/json
+
+###
+GET {{base_adress}}/api/Game/d5f6c847-7c4b-45e7-ae22-cbca7f127d8f
+Accept: application/json
+
+###
